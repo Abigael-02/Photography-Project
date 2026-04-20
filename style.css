@@ -134,6 +134,14 @@ form button:active {
     background-color: #004d00;
 }
 
+footer {
+    background-color: #2f4f4f;
+    color: #f0f8ff;
+    text-align: center;
+    padding: 12px 0;
+    margin-top: 20px;
+}
+
 
     
 

@@ -39,3 +39,8 @@ nav a {
     font-weight: bold;
     letter-spacing: 0.5px;
 }
+
+nav a:hover {
+    color: #00ffcc;
+    text-decoration: underline;
+}

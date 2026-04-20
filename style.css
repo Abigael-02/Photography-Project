@@ -116,6 +116,23 @@ form input:focus, form textarea:focus {
     outline: none;
 }
 
+form button {
+    background-color: #008000;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #006400;
+}
+
+
+    
+
 
     
     

@@ -92,14 +92,14 @@ h3 {
 }
 
 form {
-    max-width: fit-content;
+    max-width: 600px;
     margin:24px auto;
 }
 
 form label {
     display: block;
     margin-bottom: 8px;
-    font-weight: bold;
+    font-weight: 600;
 }
 
 form input,form textarea, form button {

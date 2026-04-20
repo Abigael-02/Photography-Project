@@ -91,5 +91,16 @@ h3 {
     margin-bottom: 10px;
 }
 
+form {
+    max-width: fit-content;
+    margin:24px auto;
+}
+
+form label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+}
+
 
     

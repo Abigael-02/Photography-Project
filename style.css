@@ -6,3 +6,11 @@ body {
     line-height: 1.6;
     font-family: 'Times New Roman', Times, serif;
 }
+
+header {
+    background-color: #2f4f4f;
+    color:#f0f8ff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 24px 0;
+    text-align: center;
+}

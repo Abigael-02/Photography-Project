@@ -102,5 +102,15 @@ form label {
     font-weight: bold;
 }
 
+form input,form textarea, form button {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+}
+    
+
 
     

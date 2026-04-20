@@ -73,7 +73,10 @@ section h2 {
     background-color: #e6fff9;
     margin:10px 0;
     font-family: 'Times New Roman', Times, serif;
-    font-weight: bold;
+    font-weight: bold;border: 2px solid #2f4f4f;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
 }
 
 #gallery {
@@ -82,7 +85,7 @@ section h2 {
     grid-template-rows: repeat(2, auto);
     gap: 30px;
     padding: 20px;
-}
+    }
 
 #gallery img {
     display: flex;

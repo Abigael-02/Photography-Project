@@ -19,7 +19,11 @@ A simple and aesthetic photography portfolio showcasing travel memories from aro
 
 ## How to Run
 1. Open 'index.html' in your browser.
-2.Use the **Live Server** extension in VS Code.
+2. Use the **Live Server** extension in VS Code.
+
+## Link to GitHub Photography Project
+https://github.com/Abigael-02/Photography-Project
+
 
 ---
 *Designed by Abigael Kibunja*

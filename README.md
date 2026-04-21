@@ -3,9 +3,9 @@
 A simple and aesthetic photography portfolio showcasing travel memories from around the world.
 
 ## Design
-**Theme:**Serene Gallery(Teal,Cream, and Terracotta)
-**Layout:**2x2 Responsive grid
-**Style:**Modern card based design with borders and soft shadows
+**Theme:** Serene Gallery (Teal,Cream, and Terracotta)
+**Layout:** 2x2 Responsive grid
+**Style:** Modern card based design with borders and soft shadows
 
 ## Featured destinations
 * **Italy** - Coastal views of Positano

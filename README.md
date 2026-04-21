@@ -14,8 +14,8 @@ A simple and aesthetic photography portfolio showcasing travel memories from aro
 * **Switzerland** - The Matterhorn and Gornergrat Railway
 
 ## Built With
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## How to Run
 1. Open 'index.html' in your browser.

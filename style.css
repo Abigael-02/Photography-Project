@@ -151,6 +151,26 @@ footer {
     margin-top: 20px;
 }
 
+#about .about-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    padding: 60px;
+    background-color: #fdfbf7;
+    border: 2px solid #2f4f4f;
+    border-radius: 15px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    max-width: 900px;
+    margin: 20px auto;
+}
+
+#about .about-container img {
+    border-radius: 10px;
+    border: 1px solid #ddd;
+}
+    
 
     
 
